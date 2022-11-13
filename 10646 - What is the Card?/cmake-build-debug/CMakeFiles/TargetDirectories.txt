@@ -1,0 +1,3 @@
+/home/francisco/programacao/olimpiadas/10646 - What is the Card?/cmake-build-debug/CMakeFiles/10646___What_is_the_Card_.dir
+/home/francisco/programacao/olimpiadas/10646 - What is the Card?/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/francisco/programacao/olimpiadas/10646 - What is the Card?/cmake-build-debug/CMakeFiles/rebuild_cache.dir
