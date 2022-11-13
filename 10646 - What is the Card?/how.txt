@@ -1,5 +1,0 @@
-valor é o da carta se o valor estiver entre 2 e 9
-	if v >= 2 e v <= 9;
-	else 10
-uma array de tamaho x composta por uma array de 52 strings
-
